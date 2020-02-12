@@ -1,4 +1,7 @@
 a，b = b，a + b
 end=''
-range
+for _ in range(20)  == count = 1 
+                       while count <=20:
+                             count += 1
+                            
 
