@@ -3,5 +3,6 @@ end=''
 for _ in range(20)  == count = 1 
                        while count <=20:
                              count += 1
+对self.后面加不加_（下划线）不太清楚                             
                             
 
